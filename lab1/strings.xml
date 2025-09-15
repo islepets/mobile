@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calcuate</string>
+    <string name="name_calculate">Калькулятор</string>
+    <string name="label_empty">Поля пусты</string>
+    <string name="input_correct">Введите конкретные числа</string>
+    <string name="divide_null">Ошибка деления на 0</string>
+    <string name="operation_error">Ошибка операции!</string>
+    <string name="res_checked">Результат вычисления</string>
+</resources>
