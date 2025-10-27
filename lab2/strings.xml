@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="addElem">Новый элемент</string>
+    <string name="add">+</string>
+    <string name="empty">Список пуст</string>
+    <string name="allEl">Выбрать все</string>
+    <string name="del">Удалить</string>
+    <string name="reset">Сбросить все</string>
+
+    <string name="EN_addElem">New element</string>
+    <string name="EN_add">Add</string>
+    <string name="EN_empty">List empty</string>
+    <string name="EN_allEl">Select all</string>
+    <string name="EN_del">Delete</string>
+    <string name="EN_reset">Reset all</string>
+
+</resources>
